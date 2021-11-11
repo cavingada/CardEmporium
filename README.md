@@ -1,0 +1,2 @@
+# CardEmporium
+"Card Emporium" implements the card game War using Java. Have you ever felt that a game of war was taking too long? Card Emporium allows you to iterate quickly through each round to find a winner quickly. You may also play with up to 51 other friends! The design also allows users to quit early if they feel that the game is taking too long. Feel free to run the main method and play yourself; enjoy! 
